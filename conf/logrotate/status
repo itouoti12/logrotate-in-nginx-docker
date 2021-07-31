@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/var/log/nginx/error.log" 1999-4-12-3:0:0
+"/var/log/dpkg.log" 1999-4-12-3:0:0
+"/var/log/apt/term.log" 1999-4-12-3:0:0
+"/var/log/apt/history.log" 1999-4-12-3:0:0
+"/var/log/alternatives.log" 1999-4-12-3:0:0
+"/var/log/wtmp" 1999-4-12-3:0:0
+"/var/log/btmp" 1999-4-12-3:0:0
+"/var/log/exim4/paniclog" 1999-4-12-3::0
+"/var/log/nginx/access.log" 1999-4-12-3:0:0
+"/var/log/exim4/rejectlog" 1999-4-12-3::0
+"/var/log/exim4/mainlog" 1999-4-12-3::0
